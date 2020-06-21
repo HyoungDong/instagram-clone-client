@@ -3,10 +3,10 @@ const BORDER_RADIUS = "4px";
 
 export default {
   bgColor: '#FAFAFA',
-  blackColor: 'color: #262626',
+  blackColor: '#262626',
   blueColor: '#0095F6',
   lightGreyColor:"#c7c7c7",
-  redColor:"#ED4956",
+  redColor:'#ED4956',
   darkGreyColor: `#8e8e8e`,
   darkblueColor: '#00376b',
   boxBorder: '1px solid #dbdbdb',

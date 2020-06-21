@@ -7,8 +7,10 @@ import Router from './Router'
 function App() {
   return (
     <ThemeProvider theme={Theme}>
-      <GlobalStyles />
-      <Router isLoggedIn={false} />
+      <>
+        <GlobalStyles />
+        <Router isLoggedIn={false} />
+      </>
     </ThemeProvider>
   );
 }
